@@ -1,5 +1,5 @@
 ## About Me
-Hi, I'm a AI Solution Engineer with over 20 years of AI/ML expertise, delivering solutions for companies large & small. Look forward to collaborating and helping  others in the open-source community. 
+Hi, I'm a AI Solution Engineer with over 20 years of AI/ML expertise, delivering solutions for companies large & small. I look forward to collaborating and helping  others in the open-source community. 
 
 My background spans tech, finance, and healthcare, including at: Intel, Samsung, USAA, Bank of America, and pulseData. ​I've delivered solutions including large language models (LLMs), graph, reinforcement learning, and cloud services.  In this exciting time of AI, I most look forward to promoting the use of open-source AI, with relevant hardware / cloud services, to deliver cost-effective solutions. ​
 ​
