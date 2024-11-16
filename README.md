@@ -4,7 +4,7 @@ Hi, I'm a AI Solution Engineer delivering solutions for companies large & small 
 My background spans tech, finance, and healthcare, including at: Intel, Samsung, USAA, Bank of America, and pulseData. ​I've delivered solutions including large language models (LLMs), graph, reinforcement learning, and cloud services.  In this exciting time of AI, I most look forward to promoting the use of open-source AI, with relevant hardware / cloud services, to deliver cost-effective solutions. ​
 ​
 
-Follow me on [LinkedIn](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edwardleemfe
+Follow me on [LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=edwardleemfe
 )
 
 <!--
