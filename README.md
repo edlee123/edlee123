@@ -10,8 +10,9 @@ Hi, I'm a AI Solution Engineer delivering solutions for enterprises and startups
 
 ### Events
 
-* **Open Source Summit NA 2025** - prepared an AI app and workshop material to deploy GraphRAG with Kubernetes on AWS.
-* **Redhat Summit 2025 (May 19-21st)**  - prepared a hands on experience that deployed RAG with Kubernetes on Redhat Openshift [link](https://github.com/rhai-code/GenAIInfra/tree/summit/helm-charts/chatqna)]. The app deployed many combinations of: compute (NVIDIA, AMD, Intel) x vector DB (Milvus, Qdrant, Redis) x models x UI combinations.  600 participated in the experience. 
+* **Open Source Summit NA 2025** - prepared an AI app + workshop material to deploy GraphRAG with Kubernetes on AWS.
+* **Deploying Agentic AI Applications with OPEA on Intel®** - co-presented agentic AI workshop.​
+* **Redhat Summit 2025 (May 19-21st)**  - prepared a hands on experience that deployed RAG with Kubernetes on Redhat Openshift [link](https://github.com/rhai-code/GenAIInfra/tree/summit/helm-charts/chatqna)]. The app deployed many combinations of: compute (NVIDIA, AMD, Intel) x vector DB (Milvus, Qdrant, Redis) x models x UI combinations. 600 participated in the experience. 
 * **Intel Liftoff 25Q2 Workshop** - presented a startup workshop on Agentic AI demo using [OpenManus](https://github.com/mannaandpoem/OpenManus) General Agentic AI framework.
 * **Intel Liftoff 25Q1 Workshop** - presented the deployment of RAG with DeepSeek Reasoning model using cloud agnostic framework Open Platform for Enterprise AI (opea.dev).
 * **Intel Liftoff 24Q4 Workshop** organized workshop using Gaudi, torch code conversion, fine-tuning on Intel Tiber AI Cloud.
