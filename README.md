@@ -17,8 +17,9 @@ Hi, I'm a AI Solution Engineer delivering solutions for enterprises and startups
 * **Intel Liftoff 25Q1 Workshop** - presented the deployment of RAG with DeepSeek Reasoning model using cloud agnostic framework Open Platform for Enterprise AI (opea.dev).
 * **Intel Liftoff 24Q4 Workshop** organized workshop using Gaudi, torch code conversion, fine-tuning on Intel Tiber AI Cloud.
 
-### Pull Requests
+### GenAI Open Source Contributions
 * Open Platform for Enterprise AI, Linux Foundation Project (opea.dev):
+  - [Multimodal MCP with OPEA](https://github.com/edlee123/GenAIResearch/tree/multimodal_mcp_examples/examples/MultimodalMCP)
   - [GraphRAG with Endpoints](https://github.com/opea-project/GenAIExamples/pull/2002)
   - [Update of GraphRAG dataprep and retriever components](https://github.com/opea-project/GenAIComps/pull/1746)
   - [OpenAI-compatible endpoint for text generation](https://github.com/opea-project/GenAIComps/pull/1395)
