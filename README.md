@@ -1,5 +1,5 @@
 ## About Me
-Hi, I'm a AI Solution Engineer delivering solutions for enterprises and startups for over 20 years. I look forward to collaborating and helping others in the open-source community. 
+I'm a AI Solution Engineer delivering solutions for enterprises and startups for over 20 years. I look forward to collaborating and helping others in the open-source community. 
 
 ​I've delivered AI solutions including large language models (LLMs), graph, reinforcement learning, cloud services, spanning tech, finance, and healthcare industries. Please find a recent selection of my open source work below:
 
